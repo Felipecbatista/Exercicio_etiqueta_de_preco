@@ -1,0 +1,14 @@
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\bin\Debug\netcoreapp3.1\Exercicio etiqueta de preco.exe
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\bin\Debug\netcoreapp3.1\Exercicio etiqueta de preco.deps.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\bin\Debug\netcoreapp3.1\Exercicio etiqueta de preco.runtimeconfig.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\bin\Debug\netcoreapp3.1\Exercicio etiqueta de preco.runtimeconfig.dev.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\bin\Debug\netcoreapp3.1\Exercicio etiqueta de preco.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\bin\Debug\netcoreapp3.1\Exercicio etiqueta de preco.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\obj\Debug\netcoreapp3.1\Exercicio etiqueta de preco.csproj.AssemblyReference.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\obj\Debug\netcoreapp3.1\Exercicio etiqueta de preco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\obj\Debug\netcoreapp3.1\Exercicio etiqueta de preco.AssemblyInfoInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\obj\Debug\netcoreapp3.1\Exercicio etiqueta de preco.AssemblyInfo.cs
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\obj\Debug\netcoreapp3.1\Exercicio etiqueta de preco.csproj.CoreCompileInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\obj\Debug\netcoreapp3.1\Exercicio etiqueta de preco.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\obj\Debug\netcoreapp3.1\Exercicio etiqueta de preco.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio etiqueta de preco\Exercicio etiqueta de preco\obj\Debug\netcoreapp3.1\Exercicio etiqueta de preco.genruntimeconfig.cache
